@@ -1,0 +1,17 @@
+{
+  "name": "signal-state-machine",
+  "version": "1.0.0",
+  "description": "signal-state-machine",
+  "main": "signal-state-machine.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosephClay/signal-state-machine.git"
+  },
+  "author": "Joseph Clay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosephClay/signal-state-machine/issues"
+  },
+  "homepage": "https://github.com/JosephClay/signal-state-machine"
+}
